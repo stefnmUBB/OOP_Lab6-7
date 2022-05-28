@@ -8,9 +8,9 @@ Cerințe:
 **9 Închiriere mașini**
 
 Creați o aplicație care permite:
-· gestiunea unei liste de mașini. Mașina: nrInmatriculare, producător, model, tip
-· adăugare, ștergere, modificare și afișare mașini
-· căutare mașina
-· filtrare mașini după: producător, tip
-· sortare mașini după: nrInmatriculare, tip, producator + model
+- gestiunea unei liste de mașini. Mașina: nrInmatriculare, producător, model, tip
+- adăugare, ștergere, modificare și afișare mașini
+- căutare mașina
+- filtrare mașini după: producător, tip
+- sortare mașini după: nrInmatriculare, tip, producator + model
 
